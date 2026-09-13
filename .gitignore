@@ -1,0 +1,12 @@
+*.pt
+*.pth
+*.ckpt
+__pycache__/
+*.pyc
+
+data/raw/
+data/processed/
+data/tokenizer/
+fonts/
+
+outputs/
